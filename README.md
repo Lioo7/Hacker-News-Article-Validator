@@ -15,7 +15,7 @@ This project is a script developed to validate the order and count of articles o
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/Lioo7/Hacker-News-Article-Validator.git
    cd hacker_news_article_validator
    ```
 2. **Install dependencies**:
